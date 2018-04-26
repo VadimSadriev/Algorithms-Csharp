@@ -1,0 +1,5 @@
+C:\Users\qwerty\Desktop\Новая папка\SortLibrary\SortLibrary\bin\Debug\SortLibrary.dll
+C:\Users\qwerty\Desktop\Новая папка\SortLibrary\SortLibrary\bin\Debug\SortLibrary.pdb
+C:\Users\qwerty\Desktop\Новая папка\SortLibrary\SortLibrary\obj\Debug\SortLibrary.csprojResolveAssemblyReference.cache
+C:\Users\qwerty\Desktop\Новая папка\SortLibrary\SortLibrary\obj\Debug\SortLibrary.dll
+C:\Users\qwerty\Desktop\Новая папка\SortLibrary\SortLibrary\obj\Debug\SortLibrary.pdb
